@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎯 Objetivo: Transformar dados em informações e conhecimentos para decisões de negócio estratégicas<br>🎓Cursando o 6º período de Sistemas de Informação<br>💼 Estagiário de Tecnologia na Crescimentum</p>
+<p align="left">🎯 Objetivo: Transformar dados em informações e conhecimento para decisões de negócio estratégicas<br>🎓Cursando o 6º período de Sistemas de Informação<br>💼 Estagiário de Tecnologia na Crescimentum</p>
 
 ###
 <h4 align="left">Linguagens e ferramentas:</h4>
