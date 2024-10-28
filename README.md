@@ -1,4 +1,4 @@
-<p align="left">Olá! 👋 Bem-vindo ao meu GitHub!</p>
+<h2>Olá! 👋 Bem-vindo ao meu GitHub!</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 <p align="left">🎯 Objetivo: Transformar dados em informações e conhecimentos para decisões de negócio estratégicas<br>🎓Cursando o 6º período de Sistemas de Informação<br>💼 Estagiário de Tecnologia na Crescimentum</p>
 
 ###
-
+<h4 align="left">Linguagens e ferramentas:</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
