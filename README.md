@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Sou um entusiasta de dados e tecnologia, com o objetivo de me especializar cada vez mais na área de análise de dados. Atualmente, sou estagiário, mas já acumulo uma experiência relevante, além de uma bagagem de 5 anos em outros desafios. Estou sempre buscando ampliar meus conhecimentos, com soluções inovadoras e sustentáveis para problemas complexos (ou não).</p>
+<p align="left">Sou um entusiasta de dados e tecnologia, com o objetivo de me especializar cada vez mais na área de análise de dados. Atualmente, sou analista de dados júnior, mas já acumulo uma experiência relevante, além de uma bagagem de 5 anos em outros desafios. Estou sempre buscando ampliar meus conhecimentos, com soluções inovadoras e sustentáveis para problemas complexos (ou não).</p>
 
 ###
 
-<p align="left">🎯 Objetivo: Transformar dados em informações e conhecimento para decisões de negócio estratégicas<br>🎓Cursando o 6º período de Sistemas de Informação<br>💼 Estagiário de Tecnologia na Crescimentum</p>
+<p align="left">🎯 Objetivo: Transformar dados em informações e conhecimento para decisões de negócio estratégicas<br>🎓Cursando o 8º período de Sistemas de Informação<br>💼 Analista de Dados Júnior na Crescimentum</p>
 
 ###
 <h4 align="left">Linguagens e ferramentas:</h4>
